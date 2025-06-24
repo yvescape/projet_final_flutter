@@ -32,11 +32,16 @@ Captures d’écran de l’application
     ![home](https://github.com/user-attachments/assets/b8332b7d-496b-4496-af70-0fb629cb5855)
 
   - register
-    
+    ![register](https://github.com/user-attachments/assets/9e35e333-e5ad-4c08-84f2-14ece4746d58)
+
   - Home
-    
+    ![home](https://github.com/user-attachments/assets/68348301-e076-4da7-af73-2c957f086921)
+
   - Ajout
-    
+    ![ajout](https://github.com/user-attachments/assets/3df5e45c-727d-4d46-b572-edf3d4ae7e1c)
+
   - Profil
-  
+  ![profil](https://github.com/user-attachments/assets/bb3f667d-4a7a-42bd-bd1f-d54dfc6f7c9d)
+
   - Map
+  ![map](https://github.com/user-attachments/assets/c204042e-7cfd-4965-8759-b51ee86920c9)
