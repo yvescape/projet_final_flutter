@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663445607229",
+    "project_id": "signalement-6dfa6",
+    "storage_bucket": "signalement-6dfa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663445607229:android:2fe99560fcb0bbe57bab54",
+        "android_client_info": {
+          "package_name": "com.example.signalement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb47-1w6BGDaTpDb1fg-sHhHXVR5asCKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
