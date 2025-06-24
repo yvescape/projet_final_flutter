@@ -30,7 +30,7 @@
 ### Captures d’écran de l’application
 
 - **Login**  
-  <img src="https://github.com/user-attachments/assets/b8332b7d-496b-4496-af70-0fb629cb5855" width="300" height="350"/>
+  <img src="https://github.com/user-attachments/assets/b8332b7d-496b-4496-af70-0fb629cb5855" width="300"/>
 
 - **Register**  
   <img src="https://github.com/user-attachments/assets/9e35e333-e5ad-4c08-84f2-14ece4746d58" width="300"/>
